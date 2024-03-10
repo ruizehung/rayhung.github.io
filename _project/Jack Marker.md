@@ -5,7 +5,7 @@ collection: project
 date: 2023-10-09
 ---
 
-Jack Marker is a tool that me and our lab developed to catch students copied each other's coding homework. Instead of me explaining how it works, it would be more fun for you to read what students said about us on a Reddit post: [Secret CS 3600 (Intro to AI) Anti-plagiarism Trick](https://www.reddit.com/r/gatech/comments/11cofz3/secret_cs_3600_intro_to_ai_antiplagiarism_trick/)
+Jack Marker is a tool that me and our lab developed to catch students copied each other's coding homework. Instead of me explaining how it works, it would be more fun for you to read what students said about us in a Reddit post: [Secret CS 3600 (Intro to AI) Anti-plagiarism Trick](https://www.reddit.com/r/gatech/comments/11cofz3/secret_cs_3600_intro_to_ai_antiplagiarism_trick/)
 
 
 <blockquote>
