@@ -1,6 +1,6 @@
 ---
 title: "Socratic Mind"
-excerpt: "AI-powered Oral Assessment for Interview Practice<br/><img src='/images/SocraticMindHighSchoolDemo.gif'>"
+excerpt: "AI-powered Oral Assessment for Interview Practice<br/><img src='/images/SocraticMindInitialPrototype.png'>"
 collection: portfolio
 date: 2024-04-28
 ---
