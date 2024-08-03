@@ -1,6 +1,6 @@
 ---
 title: "Socratic Mind"
-excerpt: "<a href='https://www.socraticmind.com/'>Socratic Mind</a> conducts interactive oral assessments leveraging Socratic questioning to challenge students to think critically, articulate ideas verbally, and solve problems creatively. <br/> <img src='/images/SocraticMindHighSchoolDemo.gif' alt='Socratic Mind Logo' style='max-width: 800px; max-height: 800px; margin-top: 5px;'>"
+excerpt: "<a href='https://www.socraticmind.com/'>Socratic Mind</a> conducts interactive oral assessment leveraging Socratic questioning to challenge students to explain, justify, and even defend their answers to showcase their understanding. <br/> <img src='/images/SocraticMindHighSchoolDemo.gif' alt='Socratic Mind Logo' style='max-width: 800px; max-height: 800px; margin-top: 5px;'>"
 collection: project
 date: 2024-8-02
 ---
