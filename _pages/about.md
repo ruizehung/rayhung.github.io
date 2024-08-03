@@ -11,7 +11,7 @@ redirect_from:
 
 - Born and raised in Taiwan🧋
 - In my 1st year M.S. pursing a B.S./M.S. degree in **Computer Science** at **Georgia Tech** 🐝
-- Building [Socratic Mind](https://www.socratic-mind.com/), an AI-powered scalable oral assessment platform for learners in the era of AI
+- Building [Socratic Mind](https://www.socratic-mind.com/), an AI-powered Scalable Oral Assessment Platform
 - Doing AI + Education Technology research at with [Prof. Thad Starner](https://www.cc.gatech.edu/home/thad/)
 - Did AI system research at [SAIL: Systems for Artificial Intelligence Lab @ GT](https://faculty.cc.gatech.edu/~atumanov/index.html#researchgroup)
 
