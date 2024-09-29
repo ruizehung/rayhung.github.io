@@ -12,3 +12,7 @@ I'm working on [Socratic Mind](https://www.socraticmind.com/), an AI-powered ora
 We got selected as 1 of the 14 winners from 700 submissions in the [Learning Engineering Tool Competition](https://tools-competition.org/23-24-accelerating-and-assessing-learning-winners/).
 
 ![Tools Competition Winner](/images/ToolsCompWinnerCommunicationsToolkitLearningTrack.png)
+
+📖 Gatech Coverage: [AI Oral Assessment Tool Uses Socratic Method to Test Students' Knowledge](https://www.cc.gatech.edu/news/ai-oral-assessment-tool-uses-socratic-method-test-students-knowledge)
+
+
