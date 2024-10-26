@@ -10,7 +10,7 @@ location: "Virtual"
 
 I was invited to give a talk at Georgia Tech Taiwanese Student Association (GT TSA) career workshop on how to search for internships. 
 
-<a href="/files/Ray Spring 2024 GT TSA Internship Presentation.pdf">Slides here</a>
+<a href="/files/TSA Internship Presentation Spring 24.pdf">Slides here</a>
 
 [Instagram Post Link (Public)](https://www.instagram.com/p/C2T0EluSxI8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
