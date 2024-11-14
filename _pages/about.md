@@ -10,10 +10,9 @@ redirect_from:
 ---
 
 - Born and raised in Taiwan🧋
-- In my 1st year M.S. pursing a B.S./M.S. degree in **Computer Science** at **Georgia Tech** 🐝
+- About to finish my M.S. degree in **Computer Science** at **Georgia Tech** 🐝
 - Building [Socratic Mind](https://www.socratic-mind.com/), an AI-powered Scalable Oral Assessment Platform
 - Doing AI + Education Technology research at with [Prof. Thad Starner](https://www.cc.gatech.edu/home/thad/)
-- Did AI system research at [SAIL: Systems for Artificial Intelligence Lab @ GT](https://faculty.cc.gatech.edu/~atumanov/index.html#researchgroup)
 
 🗣 Talk to me about
 ======
@@ -45,6 +44,6 @@ Heeding this internal calling, I made a decisive move. I chose to **drop out** f
 
 Software Engineering
 =====
-I have experience across all levels of Software Development, from low-level C/C++ programming to Golang/Docker/Kubernetes/AWS infrastructure to fullstack development with Node.js, React/Next.js, Tailwind CSS, tRPC to AI/ML with Pytorch, Pandas to Web3 smart contract and zero-knowledge proof. 
+I have experience across all levels of Software Development, from low-level C/C++ programming to Golang/Docker/Kubernetes/AWS infrastructure to fullstack development with Node.js, React/Next.js, Tailwind CSS, tRPC to AI/LLM with LangChain, Pandas to Web3 smart contract and zero-knowledge proof. 
 
-However, I'm gradually shifting my focus towards **AI/ML** and **infrastructure** development.
+However, I'm gradually shifting my focus towards fullstack **AI/LLM** application/product development.
