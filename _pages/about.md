@@ -9,10 +9,10 @@ redirect_from:
   - /about.html
 ---
 
-- Born and raised in Taiwan🧋
-- About to finish my M.S. degree in **Computer Science** at **Georgia Tech** 🐝
+- Born and raised in Taiwan 🧋
 - Building [Socratic Mind](https://www.socratic-mind.com/), an AI-powered Scalable Oral Assessment Platform
-- Doing AI + Education Technology research at with [Prof. Thad Starner](https://www.cc.gatech.edu/home/thad/)
+- Finished my B.S./M.S. in **Computer Science** at **Georgia Tech** 🐝
+- Did AI + Education Technology research with [Prof. Thad Starner](https://www.cc.gatech.edu/home/thad/)
 
 🗣 Talk to me about
 ======
