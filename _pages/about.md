@@ -47,3 +47,9 @@ Software Engineering
 I have experience across all levels of Software Development, from low-level C/C++ programming to Golang/Docker/Kubernetes/AWS infrastructure to fullstack development with Node.js, React/Next.js, Tailwind CSS, tRPC to AI/LLM with LangChain, Pandas to Web3 smart contract and zero-knowledge proof. 
 
 However, I'm gradually shifting my focus towards fullstack **AI/LLM** application/product development.
+
+
+Media Coverage
+======
+- [Research team watermarks answers to nab 28 students cheating on online, take-home exam.](https://thecheatsheet.substack.com/i/155252725/research-watermarking-answers-in-online-take-home-exams-catches-cheating)
+- [AI Oral Assessment Tool Uses Socratic Method to Test Students' Knowledge](https://www.cc.gatech.edu/news/ai-oral-assessment-tool-uses-socratic-method-test-students-knowledge)
