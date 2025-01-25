@@ -1,6 +1,6 @@
 ---
 title: "Examinator 🧐"
-excerpt: "Unauthorized collaboration detection at scale for online exams. Now sold to [instructify.ai](instructify.ai) and become TALIA Protect™. <br/><img src='/images/Examinator-timestamps-chart.png' width='200' height='100'>"
+excerpt: "Unauthorized collaboration detection at scale for online exams. <br/><img src='/images/Examinator-timestamps-chart.png' width='200' height='100'>"
 collection: project
 date: 2024-03-09
 ---
@@ -12,10 +12,9 @@ Examinator is a secret tool that I built to detect cheating in online exams and 
 - During Fall 2022, we caught 13% (11 out of 82) students cheating in the midterm and final exam of an in-person undergraduate CS course.
 - During 2021, we caught 20 students cheating in the midterm and final exam of a graduate CS course.
 
-We have a paper published [Examinator v3.0: Cheating Detection in Online Take-Home Exams](https://dl.acm.org/doi/10.1145/3573051.3596196) and a patent pending.
+We have a paper published [Examinator v3.0: Cheating Detection in Online Take-Home Exams](https://dl.acm.org/doi/10.1145/3573051.3596196), [Examinator v4.0 : Cheating Detection in Online Take-Home Exams]([text](https://dl.acm.org/doi/10.1145/3657604.3664659)), and a patent pending.
 
-Examinator started as [a research project at Georgia Tech since 2021](https://gvu.gatech.edu/research/projects/examinator-plagiarism-detection-tool-take-home-exams), and now it is sold to [instructify.ai](instructify.ai) and become TALIA protect 
-> TALIA Protect™ Use multiple suspicious activity factors such as overlapping time signatures, rare responses, and identical answers to detect collusion in online quizzes without invading your students' privacy.
+Examinator started as [a research project at Georgia Tech since 2021](https://gvu.gatech.edu/research/projects/examinator-plagiarism-detection-tool-take-home-exams).
 
 We are still actively iterating on the project and expanding 
 
